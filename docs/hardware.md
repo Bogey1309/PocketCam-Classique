@@ -1,6 +1,6 @@
 # Hardware Architecture
 
-PocketCam Classique V1 is built around an ESP32-CAM with an OV5640
+PocketCam Classique V1 is built from an ESP32-CAM with an OV5640
 camera module.
 
 Contents:
