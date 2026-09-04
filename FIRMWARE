@@ -1,0 +1,10 @@
+Code for PocketCam Classique V1 is not  written yet.
+
+Planned approach:
+- Arduino IDE with the ESP32 board package
+- Live camera preview on the TFT
+- Shutter button captures a photo, saves it to the microSD card as a JPEG
+- Captured photo displays on the TFT, then returns to live view on next shutter press
+- Master power switch handles on/off 
+
+See /docs for the hardware architecture this firmware will run on.
