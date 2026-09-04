@@ -11,6 +11,7 @@ Contents:
 - IP5310 boost converter (also charging module)
 - master power switch (SPST toggle, sits between the IP5310 output and the ESP32-CAM's 5V input)
 - shutter button (tactile switch)
+- CH340G USB to TTL
 
 The ESP32-CAM only exposes only a few GPIO pins once the camera and onboard PSRAM are accounted for, so component choice and wiring were planned around that  rather than picked first and fitted in later.
 
