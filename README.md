@@ -1,10 +1,10 @@
 # PocketCam Classique
 
-A tiny retro-inspired digital camera built around an ESP32-CAM and OV5640 camera sensor.
+A tiny retro inspired digital camera built around an ESP32-CAM and OV5640 camera sensor.
 
 ## What is PocketCam Classique?
 
-PocketCam Classique is a small digital camera designed and built from scratch as a Hack Club project.
+PocketCam Classique is a small digital camera designed and built from scratch as a Hack Club project. (Bonus if I make it keychain sized)
 The goal is to make a compact, simple camera inspired by older digital cameras, using cheap electronics and a 3D printed enclosure.
 
 The current design is approximately 55 × 30 × 23 mm.
