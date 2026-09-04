@@ -21,6 +21,8 @@ I then made a rough wiring diagram in draw.io
 After that, I opened up onshape and made rough blocks for the components and an enclosure and checked if it all fit. 
 I had to make 2 iterations of the enclosure since the first one was not very ergonomic.
 
+I will be using a CH340G to program the ESP32CAM since it does not have a usb port as well.
+
 Attached images:
 
 <img width="1135" height="797" alt="Screenshot 2026-08-21 232245" src="https://github.com/user-attachments/assets/80dc3ece-328b-49cb-8c41-372c28992183" /> _Lego Design_
