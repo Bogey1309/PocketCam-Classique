@@ -53,7 +53,7 @@ The visuals look very sharp and boxy.
 
 ## Funding
 
-Roughly $30 of grants will be needed for the complete build.
+Roughly $45 of grants will be needed for the complete build.
 
 ## Project Status
 
