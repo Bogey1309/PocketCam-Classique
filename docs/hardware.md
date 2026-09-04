@@ -3,7 +3,7 @@
 PocketCam Classique V1 is built from an ESP32CAM with an OV5640 camera module.
 
 Contents:
-- ESP32-CAM (AI-Thinker)
+- ESP32-CAM (AI Thinker)
 - OV5640 5MP camera (attached to the ESP32-CAM)
 - 1.3" 240x240 ST7789 SPI TFT display, (doesn't have a CS pin)
 - microsd card, used in SD_MMC 1-bit mode to save GPIO pins
