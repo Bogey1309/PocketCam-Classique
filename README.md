@@ -53,7 +53,7 @@ The visuals look very sharp and boxy.
 
 ## Funding
 
-Funding will be used to purchase the electronics and materials required to build the first physical prototype.
+Roughly $30 of grants will be needed for the complete build.
 
 ## Project Status
 
