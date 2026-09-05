@@ -58,3 +58,11 @@ Roughly $45 of grants will be needed for the complete build.
 ## Project Status
 
 **CAD complete. Hardware prototype not yet assembled.**
+
+Images:
+
+<img width="955" height="549" alt="Screenshot 2026-08-23 143724" src="https://github.com/user-attachments/assets/4c1d2d6d-3799-499e-97e9-8543207b2412" />
+
+<img width="920" height="610" alt="Screenshot 2026-08-23 143825" src="https://github.com/user-attachments/assets/e84dede3-cbd7-431d-8cd1-c746553d9615" />
+
+<img width="919" height="672" alt="image" src="https://github.com/user-attachments/assets/e198427a-758a-4409-92ac-cc6bfb5edcbe" />
