@@ -1,15 +1,20 @@
 Photos and renders:
 
+Build:
+<img width="984" height="739" alt="Screenshot 2026-09-20 151714" src="https://github.com/user-attachments/assets/5a5122c1-a49e-4ea1-b2fa-f017b5dc80a9" />
+<img width="475" height="419" alt="Screenshot 2026-09-20 142106" src="https://github.com/user-attachments/assets/70301c09-b6e1-45fd-8a0f-73294be2a011" />
+
+Images Taken By the CAM:
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/e616f349-7f4b-49d4-8e59-e40da2ff5300" />
+<img width="533" height="703" alt="image" src="https://github.com/user-attachments/assets/8c8feb33-c973-4afe-9c67-682fddce0283" />
+
+
 LEGO build<img width="1135" height="797" alt="Screenshot 2026-08-21 232245" src="https://github.com/user-attachments/assets/e08b8a55-c0fb-4331-8605-32bd8147e737" />
 
 
 
-Enclosure V1 <img width="497" height="432" alt="Screenshot 2026-09-04 155358" src="https://github.com/user-attachments/assets/8a9e74f6-b3b5-4eb0-bbb8-d81134105aab" />
-
-
-Enclosure V2 
-
-<img width="920" height="610" alt="Screenshot 2026-08-23 143825" src="https://github.com/user-attachments/assets/fab8de5a-7a69-47a3-bd1d-9131ce2af8c7" />
-<img width="508" height="400" alt="Screenshot 2026-08-23 143851" src="https://github.com/user-attachments/assets/9c651252-a35f-4d98-9906-a466c03850aa" />
-<img width="1012" height="576" alt="Screenshot 2026-08-23 143814" src="https://github.com/user-attachments/assets/cb360548-1627-4862-b0a1-d291ee84f782" />
-<img width="648" height="536" alt="Screenshot 2026-08-23 143801" src="https://github.com/user-attachments/assets/e7939a2a-cc14-4276-bd1c-a845221e56b1" />
+Enclosure
+<img width="957" height="634" alt="Screenshot 2026-09-20 092422" src="https://github.com/user-attachments/assets/66417af0-4e47-4be2-8384-76edf88b4113" />
+<img width="807" height="623" alt="Screenshot 2026-09-20 090936" src="https://github.com/user-attachments/assets/476f9fb6-e99c-4a5e-b41f-c95698ae2b7a" />
+<img width="822" height="504" alt="Screenshot 2026-09-20 085224" src="https://github.com/user-attachments/assets/aabe8301-f09a-43f0-b392-08512d25b0ab" />
+<img width="535" height="578" alt="Screenshot 2026-09-20 085245" src="https://github.com/user-attachments/assets/be0c1cca-a185-4ac3-94d6-4e2ddb5c1a24" />
