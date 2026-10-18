@@ -31,6 +31,11 @@ The Camera:
 
 <img width="250" height="302" alt="image" src="https://github.com/user-attachments/assets/03fdfdbd-b8db-40da-82ad-dc19526211c1" />
 
+Taken by the camera: 
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/348b28a6-3137-4299-b862-044de67c9c46" />
+<img width="533" height="703" alt="image" src="https://github.com/user-attachments/assets/7d877be2-5530-4bcf-948b-983303beb6d8" />
+
+
 <img width="834" height="606" alt="Screenshot 2026-09-20 085308" src="https://github.com/user-attachments/assets/e8590167-4b2f-4bbf-a2be-d0bb509d1827" />
 <img width="807" height="623" alt="Screenshot 2026-09-20 090936" src="https://github.com/user-attachments/assets/d7ecc210-f49e-4442-8a49-2b7750b213b3" />
 
