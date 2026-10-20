@@ -1,17 +1,10 @@
-TFT          ESP32-CAM
-GND     -    GND
-VCC     -    3.3V
-SCL     -    GPIO3
-SDA     -    GPIO33
-RES     -    3.3V
-DC      -    GPIO12
-BLK     -    3.3V
+TFT GND- ESP GND
+TFT VCC- ESP3V3
+TFT SCK- UOR (io3)
+TFT SDA- IO4
+TFT RES- UOT
+TFT DC- IO12
+TFT BLK- 3V3
 
-Shutter
-GPIO13 -- [Tactile Button] -- GND
+SHUTTER BUTTON- IO13
 
-Power
-3.7V LiPo --> IP5310 --> [Toggle Switch] --> ESP32-CAM 5V
-
-SD card
-Uses the onboard microSD slot, wired internally to GPIO2/14/15 (SD_MMC 1-bit mode). Therefore no external wiring needed for it.
